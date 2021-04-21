@@ -21,13 +21,13 @@
 }
 
 .transaction-history tbody tr:nth-child(even) {
-    background-color: #ECF1F4;
+  background-color: #ecf1f4;
 }
 
 .transaction-history th:not(:last-child) {
-border-right: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
 }
 
 .transaction-history td:not(:last-child) {
-  border-right: 1px solid #E8E8E8;
+  border-right: 1px solid #e8e8e8;
 }
